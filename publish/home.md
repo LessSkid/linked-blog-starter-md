@@ -1,7 +1,5 @@
 ---
-dg-home: true
-dg-publish: true
-permalink: /
+title: Imaginary Zone
 ---
 
 这里是我放oc的地方 Yippeee
